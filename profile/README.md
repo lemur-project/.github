@@ -1,5 +1,8 @@
 <h1 align="center">LEMUR: Music Representation Learning for Efficient Multimodal Retrieval</h1>
 
+This page hosts the code for **LEMUR: Music Representation Learning for Efficient Multimodal Retrieval**, a research project focused on developing techniques for music representation learning across multiple modalities.
+
+The project is funded by **MICIU/AEI/10.13039/501100011033** and co-funded by **ERDF, EU** under project **PID2023-148259NB-I00**.
 
 ------
 
