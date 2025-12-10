@@ -12,4 +12,5 @@ Project carried out by the Pattern Recognition and Artificial Intelligence Group
     <br>
 </p>
 
+If your research is supported by the LEMUR project please refer to the [`Acknoledgements Repository`](https://github.com/lemur-project/acknowledgments.git) for infographics and requirements.
 
